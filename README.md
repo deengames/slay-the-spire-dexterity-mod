@@ -1,6 +1,6 @@
 # Slay The Spire: Dexterity on Death Mod
 
-You heal to max HP before battle.
+You gain +1 dexterity on a new game each time you die. e.g. if you die 3 times, on the next game, you get +3 dexterity in battles. 
 
 # Installation Instructions
 
