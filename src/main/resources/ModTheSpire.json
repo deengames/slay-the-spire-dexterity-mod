@@ -1,9 +1,9 @@
 {
-  "modid": "metalicize",
-  "name": "Metalicize",
+  "modid": "dexterity",
+  "name": "Dexterity on Death",
   "author_list": ["NightBlade9"],
-  "description": "Grants +1 metalicize on new games each time you die.",
-  "version": "1.1.0",
+  "description": "Grants +1 dexterity on new games each time you die.",
+  "version": "1.0.0",
   "sts_version": "07-05-2019",
   "mts_version": "2.6.0",
   "dependencies": ["basemod"]

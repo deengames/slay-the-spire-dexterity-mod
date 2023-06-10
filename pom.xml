@@ -2,12 +2,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.deengames</groupId>
-    <artifactId>slaythespire.metalicize</artifactId>
+    <artifactId>slaythespire.dexterityondeath</artifactId>
     <version>v1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Metalicize</name>
-    <description>Adds +1 metalicize to new games each time you die</description>
+    <name>Dexterity on Death</name>
+    <description>Adds +1 dexterity to new games each time you die</description>
 
     <dependencies>
         <dependency>
@@ -34,7 +34,7 @@
     </dependencies>
 
     <build>
-        <finalName>MetalicizeMod</finalName>
+        <finalName>DexterityOnDeath</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
