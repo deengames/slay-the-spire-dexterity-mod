@@ -4,4 +4,4 @@ You gain +1 dexterity on a new game each time you die. e.g. if you die 3 times, 
 
 # Installation Instructions
 
-[Download from Steam Workshop](#).
+[Download from Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2987562094).
